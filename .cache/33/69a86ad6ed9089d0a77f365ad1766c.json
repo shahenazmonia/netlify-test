@@ -1,0 +1,1 @@
+{"id":"../src/components/Header/data.json","dependencies":[{"name":"/Users/shahenazmonia/Desktop/fack1/netlify-test/package.json","includedInParent":true,"mtime":1548919080181}],"generated":{"js":"module.exports = {\n  \"name\": \"shahenaz\",\n  \"age\": \"25\"\n};"},"hash":"9655d37b413747a3b0dbbf506e26d7ba","cacheData":{"env":{}}}
